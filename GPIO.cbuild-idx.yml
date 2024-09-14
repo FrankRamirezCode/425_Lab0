@@ -1,0 +1,10 @@
+build-idx:
+  generated-by: csolution version 2.5.0
+  csolution: GPIO.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: GPIO.cproject.yml
+  cbuilds:
+    - cbuild: GPIO+Target_1.cbuild.yml
+      project: GPIO
+      configuration: +Target_1

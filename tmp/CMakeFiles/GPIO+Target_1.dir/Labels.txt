@@ -1,0 +1,14 @@
+# Target labels
+ GPIO+Target_1
+# Source files and their labels
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/CMakeFiles/GPIO+Target_1
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/CMakeFiles/GPIO+Target_1.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/CMakeFiles/GPIO+Target_1-complete.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-build.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-configure.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-download.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-install.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-mkdir.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-patch.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-test.rule
+/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-update.rule

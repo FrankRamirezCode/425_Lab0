@@ -1,0 +1,13 @@
+# ninja log v6
+1	14	1725656717389822100	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-mkdir	bfe4b63b558b2129
+1	14	1725656717389822100	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-mkdir	bfe4b63b558b2129
+15	21	1725656717395822128	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-download	31b848a6b80303fe
+15	21	1725656717395822128	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-download	31b848a6b80303fe
+21	28	1725656717402822162	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-update	8a6b50142f4b474d
+21	28	1725656717402822162	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-update	8a6b50142f4b474d
+28	41	1725656717410822200	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-patch	46149c434a466e3c
+28	41	1725656717410822200	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-patch	46149c434a466e3c
+41	2851	1725656720226835602	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-configure	2888072da83ffde4
+41	2851	1725656720226835602	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-configure	2888072da83ffde4
+2851	2860	1725656720226835602	GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-database	5bf97f3aa7ab0b92
+2851	2860	1725656720226835602	/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-database	5bf97f3aa7ab0b92

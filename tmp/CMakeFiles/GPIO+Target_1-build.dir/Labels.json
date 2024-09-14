@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/CMakeFiles/GPIO+Target_1-build"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/CMakeFiles/GPIO+Target_1-build.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-build.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-configure.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-patch.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-update.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-download.rule"
+		},
+		{
+			"file" : "/home/frank/Documents/425 Lab/ECE425L_GPIO/GPIO/tmp/GPIO+Target_1/src/GPIO+Target_1-stamp/GPIO+Target_1-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GPIO+Target_1"
+		],
+		"name" : "GPIO+Target_1-build"
+	}
+}
